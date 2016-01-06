@@ -23,8 +23,8 @@ Tool list:
 * \[C|G][xortool]: find xor key/key length from xor text/binary
 * \[C|G][cribdrag]: interactive crib dragging on xored text
 * \[F|O][Cuckoo]: interactive sandbox malware analysis for windows
-* \[W][https://malwr.com/]: online binary analysis
-* \[W][https://retdec.com/]: online decompiler for c/c++ binaries
+* \[W]https://malwr.com/: online binary analysis
+* \[W]https://retdec.com/: online decompiler for c/c++ binaries
 * \[S][Reflector]: assembly browser for .NET
 * \[F|O][Simple Assembly Explorer]: another .NET disassembler
 * \[F|O][de4dot]: .NET deobfuscator
@@ -44,10 +44,10 @@ Tool list:
 * \[C|S][metasploit]: Generate payload and browser exploits
 * \[C|F][exiftags]: linux package to check jpg tags
 * \[F|O][hashcat]: hash bruteforce cracker for windows that support GPU
-* \[W][http://requestb.in/]: get a temporary page to receive GET/POST request
-* \[W][http://pastebin.com/]: paste code/text with coloration
-* \[W][http://portquiz.net/]: test outgoing ports
-* \[W][http://botscout.com/]: check if an IP is flagged as spam/bot
+* \[W]http://requestb.in/: get a temporary page to receive GET/POST request
+* \[W]http://pastebin.com/: paste code/text with coloration
+* \[W]http://portquiz.net/: test outgoing ports
+* \[W]http://botscout.com/: check if an IP is flagged as spam/bot
 * \[P|X][HackBar]: xss/sql tests
 * \[P][EditThisCookie]: edit cookie, can lock cookie
 * \[X][TamperData]: modify and tamper HTTP requests
@@ -57,14 +57,14 @@ Tool list:
 * \[C|O][binutils]: tons of CLI tools
 * \[S][vmware]: virtualization products
 * \[S][dede]: delphi decompiler
-* \[W][https://dnsdumpster.com/]: free domain research tools, find subdomains
-* \[W][https://pentest-tools.com/home]: subdomain bruteforce not 100% free
+* \[W]https://dnsdumpster.com/: free domain research tools, find subdomains
+* \[W]https://pentest-tools.com/home: subdomain bruteforce not 100% free
 * \[F|O][tweakpng]: windows tool to resize image for steganography
-* \[W][https://regex101.com/]: javascript/python/php regex online
-* \[W][http://rubular.com/]: ruby regex online
+* \[W]https://regex101.com/: javascript/python/php regex online
+* \[W]http://rubular.com/: ruby regex online
 * \[G][dex2jar]: apk unpacker (android package)
 * \[M|O][kali]: hacking linux OS
-* \[W][http://www.tutorialspoint.com/codingground.htm]: online programmation on most languages
+* \[W]http://www.tutorialspoint.com/: online programmation on most languages
 
 
 ---
@@ -75,12 +75,11 @@ If you think you have a nice feature idea, open an issue.
 This list isn't mean to be ordered in some way, but if people like it, it is already noted that making a proper wiki referencing tools name with link might be a better thing than a Markdown page.
 Github wiki is also an option when the list is going to be too long.
 
-[//]: # Reference table below that point
 
 [DirBuster]: https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
 [xortool]: https://github.com/hellman/xortool
 [cribdrag]: https://github.com/SpiderLabs/cribdrag
-[Cuckoo ]: http://www.cuckoosandbox.org/
+[Cuckoo]: http://www.cuckoosandbox.org/
 [Reflector]: https://www.red-gate.com/products/dotnet-development/reflector/
 [Simple Assembly Explorer]: https://sites.google.com/site/simpledotnet/simple-assembly-explorer
 [de4dot]: http://de4dot.com/
