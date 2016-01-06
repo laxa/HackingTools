@@ -1,6 +1,6 @@
 # This is a simple list of all tools that can be related to hacking, there are windows AND linux tools
 
-This repo is updated by [Geluchat](https://github.com/bat86) and [laxa](https://github.com/Laxa)
+This repo is updated by [Geluchat](https://github.com/Geluchat) and [laxa](https://github.com/Laxa)
 
 Legend:
 [GH]: Github
