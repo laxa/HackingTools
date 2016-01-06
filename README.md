@@ -1,6 +1,6 @@
 # This is a simple list of all tools that can be related to hacking, there are windows and linux tools
 
-This repo was created and is updated by [Geluchat][(https]://github.com/Geluchat) and [laxa](https://github.com/Laxa)
+This repo was created and is updated by [Geluchat][(https://github.com/Geluchat) and [laxa](https://github.com/Laxa)
 The overall idea is to find quickly a tool that could suits your need or help you in any way related to computer hacking.
 This list is suppose to be as exhaustive as possible.
 
@@ -65,6 +65,7 @@ Tool list:
 * \[G][dex2jar]: apk unpacker (android package)
 * \[M|O][kali]: hacking linux OS
 * \[W]http://www.tutorialspoint.com/: online programmation on most languages
+* \[F|O][notepad++]: Windows text editor
 
 
 ---
@@ -110,3 +111,4 @@ Github wiki is also an option when the list is going to be too long.
 [tweakpng]: http://entropymine.com/jason/tweakpng/
 [dex2jar]: https://github.com/pxb1988/dex2jar
 [kali]: https://www.kali.org/
+[notepad++]: https://notepad-plus-plus.org/
