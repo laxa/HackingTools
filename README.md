@@ -66,6 +66,7 @@ Tool list:
 * \[M|O] [kali]: hacking linux OS
 * \[W] http://www.tutorialspoint.com/: online programmation on most languages
 * \[F|O] [notepad++]: Windows text editor
+* \[G] [ctf-tools]: list of tools similar to this one
 
 
 ---
@@ -112,3 +113,4 @@ Github wiki is also an option when the list is going to be too long.
 [dex2jar]: https://github.com/pxb1988/dex2jar
 [kali]: https://www.kali.org/
 [notepad++]: https://notepad-plus-plus.org/
+[ctf-tools]: https://github.com/zardus/ctf-tools
