@@ -6,7 +6,8 @@ This list is suppose to be as exhaustive as possible.
 
 All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short description
 
-Legend:
+### Legend
+
 * \[G]: Github/Git repository # Note, this flag automatically imply the \[O] flag
 * \[S]: Software (Imply that it's not always 100% free and that it's not open source or restrictive license)
 * \[F]: Freeware (Free software, does'nt necesselary means that it's opensource)
@@ -18,8 +19,6 @@ Legend:
 * \[M]: Misceallenous
 * \[L]: Reverse Flag: is set only when Linux compatible
 * \[W]: Reverse Flag: is set only when Windows comptabile
-
-Tool list:
 
 ### Binary
 
