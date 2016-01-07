@@ -48,6 +48,7 @@ Tool list:
 * \[C|G] [hash-identifier]: hash identifier
 * \[C|G] [lsb-toolkit]: extract bit from images for steganography
 * \[C|O] [john]: hash cracker (bruteforce + dico attacks)
+* \[F|O] [hashcat]: hash bruteforce cracker that support GPU
 * \[S] [dede]: delphi decompiler
 
 ### Web
@@ -57,7 +58,6 @@ Tool list:
 * \[C|O] [sqlmap]: sql injection
 * \[S] [Burp]: request tool analysis/forge request
 * \[S|W] [fiddler]: HTTP web proxy
-* \[F|O] [hashcat]: hash bruteforce cracker that support GPU
 * \[I] http://requestb.in/: get a temporary page to receive GET/POST request
 * \[I] http://pastebin.com/: paste code/text with coloration
 * \[I] http://portquiz.net/: test outgoing ports
