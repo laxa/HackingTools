@@ -90,6 +90,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] http://rubular.com/: ruby regex online
 * \[M|O] [kali]: hacking linux OS
 * \[G] [ctf-tools]: list of tools similar to this one
+* \[I] https://www.exploit-db.com/: exploits database
 
 ### Programming
 
