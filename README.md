@@ -10,66 +10,91 @@ Legend:
 * \[G]: Github/Git repository # Note, this flag automatically imply the \[O] flag
 * \[S]: Software (Imply that it's not always 100% free and that it's not open source or restrictive license)
 * \[F]: Freeware (Free software, does'nt necesselary means that it's opensource)
-* \[W]: Website
+* \[I]: Website
 * \[P]: Plugin for chrome
-* \[x]: Plugin for firefox
+* \[R]: Plugin for firefox
 * \[C]: CLI tool
 * \[O]: Open source
 * \[M]: Misceallenous
-* \[U]: Reverse Flag: is set only when Windows compatible
-* \[w]: Reverse Flag: is set only when Linux comptabile
+* \[L]: Reverse Flag: is set only when Linux compatible
+* \[W]: Reverse Flag: is set only when Windows comptabile
 
 Tool list:
 
-* \[F|O] [DirBuster]: bruteforce/dictionnary attack on webserver to find hidden directories
-* \[C|G] [xortool]: find xor key/key length from xor text/binary
-* \[C|G] [cribdrag]: interactive crib dragging on xored text
-* \[F|O|w] [Cuckoo]: interactive sandbox malware analysis for windows
-* \[W] https://malwr.com/: online binary analysis
-* \[W] https://retdec.com/: online decompiler for c/c++ binaries
-* \[S|w] [Reflector]: assembly browser for .NET
-* \[F|O|w] [Simple Assembly Explorer]: another .NET disassembler
-* \[F|O|w] [de4dot]: .NET deobfuscator
+### Binary
+
+* \[I] https://malwr.com/: online binary analysis
+* \[I] https://retdec.com/: online decompiler for c/c++ binaries
+* \[S|W] [Reflector]: assembly browser for .NET
+* \[F|O|W] [Simple Assembly Explorer]: another .NET disassembler
+* \[F|O|W] [de4dot]: .NET deobfuscator
 * \[S] [IDA]: debugger
-* \[F|O] [OllyDbg]: Windows debugger
-* \[F|O|w] [x64dbg]: debugger
+* \[F|O] [OllyDbg]: debugger
+* \[F|O|W] [x64dbg]: debugger
 * \[C|O|L] [gdb]: Gnu debugger for linux
 * \[M] [peda]: python plugin for gdb
-* \[C|O] [sqlmap]: sql injection
 * \[C|O|L] [strace/ltrace]: static call tracers / dynamic call tracers (librairies)
-* \[F|O|w] [Photorec]: recover erased file
+* \[G] [dex2jar]: apk unpacker (android package)
+
+### Forensic
+
+* \[C|O] [volatility]: forensic tool to analyse memory dump from windows/linux
+
+### Cryptography
+
+* \[C|G] [xortool]: find xor key/key length from xor text/binary
+* \[C|G] [cribdrag]: interactive crib dragging on xored text
 * \[C|G] [hash_extender]: hash extension forger
 * \[C|G] [hash-identifier]: hash identifier
 * \[C|G] [lsb-toolkit]: extract bit from images for steganography
 * \[C|O] [john]: hash cracker (bruteforce + dico attacks)
-* \[C|O] [volatility]: forensic tool to analyse memory dump from windows/linux
+* \[S] [dede]: delphi decompiler
+
+### Web
+
+* \[F|O] [DirBuster]: bruteforce/dictionnary attack on webserver to find hidden directories
+* \[I] http://pkav.net/XSS2.png: XSS spreadsheet
+* \[C|O] [sqlmap]: sql injection
 * \[S] [Burp]: request tool analysis/forge request
-* \[S|w] [fiddler]: HTTP web proxy
-* \[C|S] [metasploit]: Generate payload and browser exploits
-* \[C|F] [exiftags]: linux package to check jpg tags
-* \[F|O] [hashcat]: hash bruteforce cracker for windows that support GPU
-* \[W] http://requestb.in/: get a temporary page to receive GET/POST request
-* \[W] http://pastebin.com/: paste code/text with coloration
-* \[W] http://portquiz.net/: test outgoing ports
-* \[W] http://botscout.com/: check if an IP is flagged as spam/bot
-* \[P|x] [HackBar]: xss/sql tests
-* \[P] [EditThisCookie]: edit cookie, can lock cookie
-* \[x] [TamperData]: modify and tamper HTTP requests
+* \[S|W] [fiddler]: HTTP web proxy
+* \[F|O] [hashcat]: hash bruteforce cracker that support GPU
+* \[I] http://requestb.in/: get a temporary page to receive GET/POST request
+* \[I] http://pastebin.com/: paste code/text with coloration
+* \[I] http://portquiz.net/: test outgoing ports
+* \[I] http://botscout.com/: check if an IP is flagged as spam/bot
+* \[P|R] [HackBar]: xss/sql tests
+* \[R] [TamperData]: modify and tamper HTTP requests
 * \[P] [ModHeader]: edit HTTP requests
+* \[P] [EditThisCookie]: edit cookie, can lock cookie
+* \[I] https://dnsdumpster.com/: free domain research tools, find subdomains
+* \[I] https://pentest-tools.com/home: subdomain bruteforce not 100% free
+
+### Network
+
 * \[C|O] [Netcat]: network tool, can listen or connect using TCP/UDP
 * \[C|O] [nmap]: network tool to scan ports and discover services
+
+### Steganography
+
+* \[C|F] [exiftags]: linux package to check jpg tags
+* \[F|O|W] [tweakpng]: tool to resize image for steganography
+* \[F|O] [Stegsolve]: perform quick image analysis to find hidden things
+
+### Misc
+
+* \[F|O|W] [Cuckoo]: interactive sandbox malware analysis
+* \[F|O|W] [Photorec]: recover erased file
+* \[C|S] [metasploit]: Generate payload and browser exploits
 * \[C|O] [binutils]: tons of CLI tools
 * \[S] [vmware]: virtualization products
-* \[S] [dede]: delphi decompiler
-* \[W] https://dnsdumpster.com/: free domain research tools, find subdomains
-* \[W] https://pentest-tools.com/home: subdomain bruteforce not 100% free
-* \[F|O|w] [tweakpng]: tool to resize image for steganography
-* \[W] https://regex101.com/: javascript/python/php regex online
-* \[W] http://rubular.com/: ruby regex online
-* \[G] [dex2jar]: apk unpacker (android package)
+* \[I] https://regex101.com/: javascript/python/php regex online
+* \[I] http://rubular.com/: ruby regex online
 * \[M|O] [kali]: hacking linux OS
-* \[W] http://www.tutorialspoint.com/: online programmation on most languages
 * \[G] [ctf-tools]: list of tools similar to this one
+
+### Programming
+
+* \[I] http://www.tutorialspoint.com/: online programmation on most languages
 
 
 ---
@@ -119,3 +144,4 @@ Github wiki is also an option when the list is going to be too long.
 [ctf-tools]: https://github.com/zardus/ctf-tools
 [gdb]: https://www.gnu.org/software/gdb/
 [peda]: https://github.com/longld/peda
+[Stegsolve]: http://www.caesum.com/handbook/Stegsolve.jar
