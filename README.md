@@ -32,7 +32,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F|O|W] [x64dbg]: debugger
 * \[C|O|L] [gdb]: Gnu debugger for linux
 * \[M] [peda]: python plugin for gdb
-* \[C|O|L] [strace/ltrace]: static call tracers / dynamic call tracers (librairies)
+* \[C|O|L] [strace/ltrace]: system call tracers / dynamic call tracers (librairies)
 * \[G] [dex2jar]: apk unpacker (android package)
 
 ### Forensic
