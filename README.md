@@ -72,6 +72,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 * \[C|O] [Netcat]: network tool, can listen or connect using TCP/UDP
 * \[C|O] [nmap]: network tool to scan ports and discover services
+* \[C|O] [Scapy]: powerful interactive packet manipulation program
 
 ### Steganography
 
@@ -145,3 +146,4 @@ Github wiki is also an option when the list is going to be too long.
 [gdb]: https://www.gnu.org/software/gdb/
 [peda]: https://github.com/longld/peda
 [Stegsolve]: http://www.caesum.com/handbook/Stegsolve.jar
+[Scapy]: http://www.secdev.org/projects/scapy/
