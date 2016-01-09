@@ -34,6 +34,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[M] [peda]: python plugin for gdb
 * \[C|O|L] [strace/ltrace]: system call tracers / dynamic call tracers (librairies)
 * \[G] [dex2jar]: apk unpacker (android package)
+* \[S] [dede]: delphi decompiler
 
 ### Forensic
 
@@ -48,7 +49,6 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|G] [lsb-toolkit]: extract bit from images for steganography
 * \[C|O] [john]: hash cracker (bruteforce + dico attacks)
 * \[F|O] [hashcat]: hash bruteforce cracker that support GPU
-* \[S] [dede]: delphi decompiler
 
 ### Web
 
