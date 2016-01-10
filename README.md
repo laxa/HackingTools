@@ -92,6 +92,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[M|O] [kali]: hacking linux OS
 * \[G] [ctf-tools]: list of tools similar to this one
 * \[I] https://www.exploit-db.com/: exploits database
+* \[I] https://zerobin.net/: anonymous encrypted pastebin
+* \[I] http://en.42.meup.org/: temporary file hosting
 
 ### Programming
 
