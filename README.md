@@ -24,6 +24,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 * \[I] https://malwr.com/: online binary analysis
 * \[I] https://retdec.com/: online decompiler for c/c++ binaries
+* \[I] http://www.javadecompilers.com/: java decompiler online
 * \[S|W] [Reflector]: assembly browser for .NET
 * \[F|O|W] [Simple Assembly Explorer]: another .NET disassembler
 * \[F|O|W] [de4dot]: .NET deobfuscator
