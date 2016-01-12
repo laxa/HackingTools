@@ -64,6 +64,11 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] http://botscout.com/: check if an IP is flagged as spam/bot
 * \[P|R] [HackBar]: xss/sql tests
 * \[R] [TamperData]: modify and tamper HTTP requests
+* \[R] [Advanced Cookie Manager]: Edit cookie
+* \[R] [Modify Headers]: Edit HTTP headers
+* \[R] [HTTP Requester]: Edit HTTP requests
+* \[R] [FlagFox]: Info about current website
+* \[R] [Live HTTP Headers]: View Headers
 * \[P] [ModHeader]: edit HTTP requests
 * \[P] [EditThisCookie]: edit cookie, can lock cookie
 * \[I] https://dnsdumpster.com/: free domain research tools, find subdomains
@@ -135,6 +140,11 @@ Github wiki is also an option when the list is going to be too long.
 [HackBar]: https://chrome.google.com/webstore/detail/hackbar/ejljggkpbkchhfcplgpaegmbfhenekdc
 [EditThisCookie]: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?
 [TamperData]: https://addons.mozilla.org/en-US/firefox/addon/tamper-data/
+[Advanced Cookie Manager]: https://addons.mozilla.org/fr/firefox/addon/cookie-manager/
+[Modify Headers]: https://addons.mozilla.org/fr/firefox/addon/modify-headers/
+[HTTP Requester]: https://addons.mozilla.org/fr/firefox/addon/httprequester/
+[FlagFox]: https://addons.mozilla.org/fr/firefox/addon/flagfox/
+[Live HTTP Headers]: https://addons.mozilla.org/fr/firefox/addon/live-http-headers/
 [ModHeader]: https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj
 [Netcat]: http://nc110.sourceforge.net/
 [nmap]: https://nmap.org/
