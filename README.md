@@ -60,6 +60,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[S|W] [fiddler]: HTTP web proxy
 * \[I] http://requestb.in/: get a temporary page to receive GET/POST request
 * \[I] http://en.42.meup.org/ : Temporary web hosting
+* \[I] https://zerobin.net/: anonymous encrypted pastebin
 * \[I] http://pastebin.com/: paste code/text with coloration
 * \[I] http://portquiz.net/: test outgoing ports
 * \[I] http://botscout.com/: check if an IP is flagged as spam/bot
@@ -99,8 +100,6 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[M|O] [kali]: hacking linux OS
 * \[G] [ctf-tools]: list of tools similar to this one
 * \[I] https://www.exploit-db.com/: exploits database
-* \[I] https://zerobin.net/: anonymous encrypted pastebin
-* \[I] http://en.42.meup.org/: temporary file hosting
 
 ### Programming
 
