@@ -37,7 +37,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [dex2jar]: apk unpacker (android package)
 * \[S] [dede]: delphi decompiler
 * \[S] [Pin]: dynamic binary instrumentation framework
-* \[G] [Pintool]: binary password finder for ctf
+* \[G] [Pintool]: binary password finder for ctf using pin
 
 ### Forensic
 
