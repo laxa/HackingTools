@@ -36,7 +36,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O|L] [strace/ltrace]: system call tracers / dynamic call tracers (librairies)
 * \[G] [dex2jar]: apk unpacker (android package)
 * \[S] [dede]: delphi decompiler
-* \[S] [Pintool]: dynamic binary instrumentation framework
+* \[S] [Pin]: dynamic binary instrumentation framework
+* \[G] [Pintool]: binary password finder for ctf
 
 ### Forensic
 
@@ -169,4 +170,5 @@ Github wiki is also an option when the list is going to be too long.
 [Autopsy/Sleuth]: http://www.sleuthkit.org/index.php
 [Foremost]: https://doc.ubuntu-fr.org/foremost
 [Aircrack]: http://www.aircrack-ng.org/
-[Pintool]: https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
+[Pin]: https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
+[Pintool]: https://github.com/wagiro/pintool
