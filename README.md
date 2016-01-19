@@ -10,7 +10,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 * \[G]: Github/Git repository # Note, this flag automatically imply the \[O] flag
 * \[S]: Software (Imply that it's not always 100% free and that it's not open source or restrictive license)
-* \[F]: Freeware (Free software, does'nt necesselary means that it's opensource)
+* \[F]: Freeware (Free software, does'nt necessarily means that it's opensource)
 * \[I]: Website
 * \[P]: Plugin for chrome
 * \[R]: Plugin for firefox
@@ -36,10 +36,13 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O|L] [strace/ltrace]: system call tracers / dynamic call tracers (librairies)
 * \[G] [dex2jar]: apk unpacker (android package)
 * \[S] [dede]: delphi decompiler
+* \[S] [Pintool]: dynamic binary instrumentation framework
 
 ### Forensic
 
 * \[C|O] [volatility]: forensic tool to analyse memory dump from windows/linux
+* \[C|O] [Autopsy/Sleuth]: analyse hard drives and smartphones
+* \[C|O] [Foremost]: file recovery after deletion or format
 
 ### Cryptography
 
@@ -56,7 +59,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F|O] [DirBuster]: bruteforce/dictionnary attack on webserver to find hidden directories
 * \[I] http://pkav.net/XSS2.png: XSS spreadsheet
 * \[C|O] [sqlmap]: sql injection
-* \[S] [Burp]: request tool analysis/forge request
+* \[S] [Burp suite]: request tool analysis/forge request
 * \[S|W] [fiddler]: HTTP web proxy
 * \[I] http://requestb.in/: get a temporary page to receive GET/POST request
 * \[I] http://en.42.meup.org/ : Temporary web hosting
@@ -72,6 +75,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[R] [FlagFox]: Info about current website
 * \[R] [Live HTTP Headers]: View Headers
 * \[P] [ModHeader]: edit HTTP requests
+* \[G] [Nikto2]: web server scanner
 * \[P] [EditThisCookie]: edit cookie, can lock cookie
 * \[I] https://dnsdumpster.com/: free domain research tools, find subdomains
 * \[I] https://pentest-tools.com/home: subdomain bruteforce not 100% free
@@ -81,6 +85,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [Netcat]: network tool, can listen or connect using TCP/UDP
 * \[C|O] [nmap]: network tool to scan ports and discover services
 * \[C|O] [Scapy]: powerful interactive packet manipulation program
+* \[C|O] [Aircrack]: wi-fi injection/monitoring/cracking
 
 ### Steganography
 
@@ -132,7 +137,7 @@ Github wiki is also an option when the list is going to be too long.
 [lsb-toolkit]: https://github.com/luca-m/lsb-toolkit
 [john]: http://www.openwall.com/john/
 [volatility]: http://www.volatilityfoundation.org/
-[Burp]: https://portswigger.net/burp/
+[Burp suite]: https://portswigger.net/burp/
 [fiddler]: http://www.telerik.com/fiddler
 [metasploit]: http://www.metasploit.com/
 [exiftags]: http://johnst.org/sw/exiftags/
@@ -160,3 +165,8 @@ Github wiki is also an option when the list is going to be too long.
 [peda]: https://github.com/longld/peda
 [Stegsolve]: http://www.caesum.com/handbook/Stegsolve.jar
 [Scapy]: http://www.secdev.org/projects/scapy/
+[Nikto2]: https://cirt.net/Nikto2
+[Autopsy/Sleuth]: http://www.sleuthkit.org/index.php
+[Foremost]: https://doc.ubuntu-fr.org/foremost
+[Aircrack]: http://www.aircrack-ng.org/
+[Pintool]: https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
