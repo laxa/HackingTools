@@ -98,6 +98,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 * \[F|O|W] [Cuckoo]: interactive sandbox malware analysis
 * \[F|O|W] [Photorec]: recover erased file
+* \[C|O] [QEMU]: machine emulator and virtualizer 
 * \[C|S] [metasploit]: Generate payload and browser exploits
 * \[C|O] [binutils]: tons of CLI tools
 * \[S] [vmware]: virtualization products
@@ -174,3 +175,4 @@ Github wiki is also an option when the list is going to be too long.
 [Pin]: https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
 [Pintool]: https://github.com/wagiro/pintool
 [pwntools]: https://pwntools.readthedocs.org/en/2.2/
+[QEMU]: http://wiki.qemu.org/Main_Page
