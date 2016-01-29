@@ -54,6 +54,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|G] [lsb-toolkit]: extract bit from images for steganography
 * \[C|O] [john]: hash cracker (bruteforce + dico attacks)
 * \[F|O] [hashcat]: hash bruteforce cracker that support GPU
+* \[C|G] [rsatool]: calculates RSA (p, q, n, d, e) and RSA-CRT (dP, dQ, qInv) parameters given either two primes (p, q) or modulus and private exponent (n, d)
 
 ### Web
 
@@ -176,3 +177,4 @@ Github wiki is also an option when the list is going to be too long.
 [Pintool]: https://github.com/wagiro/pintool
 [pwntools]: https://pwntools.readthedocs.org/en/2.2/
 [QEMU]: http://wiki.qemu.org/Main_Page
+[rsatool]: https://github.com/ius/rsatool
