@@ -18,7 +18,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[O]: Open source
 * \[M]: Misceallenous
 * \[L]: Reverse Flag: is set only when Linux compatible
-* \[W]: Reverse Flag: is set only when Windows comptabile
+* \[W]: Reverse Flag: is set only when Windows compatible
 
 ### Binary
 
@@ -38,6 +38,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[S] [dede]: delphi decompiler
 * \[S] [Pin]: dynamic binary instrumentation framework
 * \[G] [Pintool]: binary password finder for ctf using pin
+* \[O|L] [checksec]: check binary protections
 
 ### Forensic
 
@@ -178,3 +179,4 @@ Github wiki is also an option when the list is going to be too long.
 [pwntools]: https://pwntools.readthedocs.org/en/2.2/
 [QEMU]: http://wiki.qemu.org/Main_Page
 [rsatool]: https://github.com/ius/rsatool
+[checksec]: http://www.trapkit.de/tools/checksec.html
