@@ -39,6 +39,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[S] [Pin]: dynamic binary instrumentation framework
 * \[G] [Pintool]: binary password finder for ctf using pin
 * \[O|L] [checksec]: check binary protections
+* \[F] [DiE]: binary packer detection
 
 ### Forensic
 
@@ -180,3 +181,4 @@ Github wiki is also an option when the list is going to be too long.
 [QEMU]: http://wiki.qemu.org/Main_Page
 [rsatool]: https://github.com/ius/rsatool
 [checksec]: http://www.trapkit.de/tools/checksec.html
+[DiE]: http://ntinfo.biz/
