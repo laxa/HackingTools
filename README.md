@@ -84,6 +84,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[P] [EditThisCookie]: edit cookie, can lock cookie
 * \[I] https://dnsdumpster.com/: free domain research tools, find subdomains
 * \[I] https://pentest-tools.com/home: subdomain bruteforce not 100% free
+* \[G] [Hydra]: remote password cracker
 
 ### Network
 
@@ -184,3 +185,4 @@ Github wiki is also an option when the list is going to be too long.
 [checksec]: http://www.trapkit.de/tools/checksec.html
 [DiE]: http://ntinfo.biz/
 [Qira]: https://github.com/BinaryAnalysisPlatform/qira
+[Hydra]: http://hacklab-esgi.fr/
