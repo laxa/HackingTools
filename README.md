@@ -185,4 +185,4 @@ Github wiki is also an option when the list is going to be too long.
 [checksec]: http://www.trapkit.de/tools/checksec.html
 [DiE]: http://ntinfo.biz/
 [Qira]: https://github.com/BinaryAnalysisPlatform/qira
-[Hydra]: http://hacklab-esgi.fr/
+[Hydra]: https://github.com/vanhauser-thc/thc-hydra
