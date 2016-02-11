@@ -40,6 +40,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [Pintool]: binary password finder for ctf using pin
 * \[O|L] [checksec]: check binary protections
 * \[F] [DiE]: binary packer detection
+* \[G] [Qira]: timeless debugger with web interface by geohot
 
 ### Forensic
 
@@ -182,3 +183,4 @@ Github wiki is also an option when the list is going to be too long.
 [rsatool]: https://github.com/ius/rsatool
 [checksec]: http://www.trapkit.de/tools/checksec.html
 [DiE]: http://ntinfo.biz/
+[Qira]: https://github.com/BinaryAnalysisPlatform/qira
