@@ -41,6 +41,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[O|L] [checksec]: check binary protections
 * \[F] [DiE]: binary packer detection
 * \[G] [Qira]: timeless debugger with web interface by geohot
+* \[G|C] [ROPGadget]: tool for rop chaining
 
 ### Forensic
 
@@ -186,3 +187,4 @@ Github wiki is also an option when the list is going to be too long.
 [DiE]: http://ntinfo.biz/
 [Qira]: https://github.com/BinaryAnalysisPlatform/qira
 [Hydra]: https://github.com/vanhauser-thc/thc-hydra
+[ROPGadget]: https://github.com/JonathanSalwan/ROPgadget
