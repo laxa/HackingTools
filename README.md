@@ -44,6 +44,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [ROPGadget]: tool for rop chaining
 * \[G|C] [reverse]: disassemble in pseudo-C with colored syntax
 * \[O|C|L] [XOCopy]: copy memory of execute only ELF binaries
+* \[G|C] [Shellsploit]: shellcode generator framework
 
 ### Forensic
 
@@ -192,3 +193,4 @@ Github wiki is also an option when the list is going to be too long.
 [ROPGadget]: https://github.com/JonathanSalwan/ROPgadget
 [reverse]: https://github.com/joelpx/reverse
 [XOCopy]: http://reverse.lostrealm.com/tools/xocopy.html
+[Shellsploit]: https://github.com/b3mb4m/shellsploit-framework
