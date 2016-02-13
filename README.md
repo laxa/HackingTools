@@ -45,6 +45,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [reverse]: disassemble in pseudo-C with colored syntax
 * \[O|C|L] [XOCopy]: copy memory of execute only ELF binaries
 * \[G|C] [Shellsploit]: shellcode generator framework
+* \[G|C] [radare2]: analyzer, disassembler, debugger
+* \[G] [Bokken]: Python-GTK GUI for radare2
 
 ### Forensic
 
@@ -107,7 +109,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 * \[F|O|W] [Cuckoo]: interactive sandbox malware analysis
 * \[F|O|W] [Photorec]: recover erased file
-* \[C|O] [QEMU]: machine emulator and virtualizer 
+* \[C|O] [QEMU]: machine emulator and virtualizer
 * \[C|S] [metasploit]: Generate payload and browser exploits
 * \[C|O] [binutils]: tons of CLI tools
 * \[S] [vmware]: virtualization products
@@ -194,3 +196,5 @@ Github wiki is also an option when the list is going to be too long.
 [reverse]: https://github.com/joelpx/reverse
 [XOCopy]: http://reverse.lostrealm.com/tools/xocopy.html
 [Shellsploit]: https://github.com/b3mb4m/shellsploit-framework
+[radare2]: https://github.com/radare/radare2
+[Bokken]: https://github.com/radare/bokken
