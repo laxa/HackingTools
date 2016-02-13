@@ -44,6 +44,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [ROPGadget]: tool for rop chaining
 * \[G|C] [reverse]: disassemble in pseudo-C with colored syntax
 * \[O|C|L] [XOCopy]: copy memory of execute only ELF binaries
+* \[G|C] [radare2]: analyzer, disassembler, debugger
+* \[G] [Bokken]: Python-GTK GUI for radare2
 
 ### Forensic
 
@@ -192,3 +194,5 @@ Github wiki is also an option when the list is going to be too long.
 [ROPGadget]: https://github.com/JonathanSalwan/ROPgadget
 [reverse]: https://github.com/joelpx/reverse
 [XOCopy]: http://reverse.lostrealm.com/tools/xocopy.html
+[radare2]: https://github.com/radare/radare2
+[Bokken]: https://github.com/radare/bokken
