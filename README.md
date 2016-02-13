@@ -42,6 +42,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F] [DiE]: binary packer detection
 * \[G] [Qira]: timeless debugger with web interface by geohot
 * \[G|C] [ROPGadget]: tool for rop chaining
+* \[G|C] [reverse]: disassemble in pseudo-C with colored syntax
 
 ### Forensic
 
@@ -188,3 +189,4 @@ Github wiki is also an option when the list is going to be too long.
 [Qira]: https://github.com/BinaryAnalysisPlatform/qira
 [Hydra]: https://github.com/vanhauser-thc/thc-hydra
 [ROPGadget]: https://github.com/JonathanSalwan/ROPgadget
+[reverse]: https://github.com/joelpx/reverse
