@@ -53,6 +53,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [volatility]: forensic tool to analyse memory dump from windows/linux
 * \[C|O] [Autopsy/Sleuth]: analyse hard drives and smartphones
 * \[C|O] [Foremost]: file recovery after deletion or format
+* \[G|C] [BinWalk]: find files into file
 
 ### Cryptography
 
@@ -198,3 +199,4 @@ Github wiki is also an option when the list is going to be too long.
 [Shellsploit]: https://github.com/b3mb4m/shellsploit-framework
 [radare2]: https://github.com/radare/radare2
 [Bokken]: https://github.com/radare/bokken
+[BinWalk]: https://github.com/devttys0/binwalk
