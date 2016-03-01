@@ -105,6 +105,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|F] [exiftags]: linux package to check jpg tags
 * \[F|O|W] [tweakpng]: tool to resize image for steganography
 * \[F|O] [Stegsolve]: perform quick image analysis to find hidden things
+* \[F|O] [Wbstego]: retrieve/hide messages in various container
 
 ### Misc
 
@@ -200,3 +201,4 @@ Github wiki is also an option when the list is going to be too long.
 [radare2]: https://github.com/radare/radare2
 [Bokken]: https://github.com/radare/bokken
 [BinWalk]: https://github.com/devttys0/binwalk
+[Wbstego]: http://wbstego.wbailer.com/
