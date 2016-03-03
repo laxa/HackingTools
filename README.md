@@ -65,6 +65,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [john]: hash cracker (bruteforce + dico attacks)
 * \[F|O] [hashcat]: hash bruteforce cracker that support GPU
 * \[C|G] [rsatool]: calculates RSA (p, q, n, d, e) and RSA-CRT (dP, dQ, qInv) parameters given either two primes (p, q) or modulus and private exponent (n, d)
+* \[I] http://quipqiup.com/: basic cryptography solver
 
 ### Web
 
