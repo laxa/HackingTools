@@ -54,6 +54,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [Autopsy/Sleuth]: analyse hard drives and smartphones
 * \[C|O] [Foremost]: file recovery after deletion or format
 * \[G|C] [BinWalk]: find files into file
+* \[S] [dff]: complete forensic gui analyser with lots of automation
+* \[G|C] [origami]: pdf forensic analysis with optional GUI
 
 ### Cryptography
 
@@ -203,3 +205,5 @@ Github wiki is also an option when the list is going to be too long.
 [Bokken]: https://github.com/radare/bokken
 [BinWalk]: https://github.com/devttys0/binwalk
 [Wbstego]: http://wbstego.wbailer.com/
+[dff]: http://www.arxsys.fr/discover/
+[origami]: https://github.com/cogent/origami-pdf
