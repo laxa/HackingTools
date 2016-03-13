@@ -47,6 +47,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [Shellsploit]: shellcode generator framework
 * \[G|C] [radare2]: analyzer, disassembler, debugger
 * \[G] [Bokken]: Python-GTK GUI for radare2
+* \[G|C] [libformatstr]: python lib to make string format exploits
 
 ### Forensic
 
@@ -207,3 +208,4 @@ Github wiki is also an option when the list is going to be too long.
 [Wbstego]: http://wbstego.wbailer.com/
 [dff]: http://www.arxsys.fr/discover/
 [origami]: https://github.com/cogent/origami-pdf
+[libformatstr]: https://github.com/hellman/libformatstr
