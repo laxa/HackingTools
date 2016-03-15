@@ -135,7 +135,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 ---
 
 If you wanna improve or add your tool here, fork this repo then push onto your own master then make a pull request.
-I won't accept any software that is specific to OS X if it does'nt work on linux or windows.
+I won't accept any software that is specific to OS X if it doesn't work on linux or windows.
 If you think you have a nice feature idea, open an issue.
 This list isn't mean to be ordered in some way, but if people like it, it is already noted that making a proper wiki referencing tools name with link might be a better thing than a Markdown page.
 Github wiki is also an option when the list is going to be too long.
