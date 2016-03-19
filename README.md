@@ -49,6 +49,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [Bokken]: Python-GTK GUI for radare2
 * \[G|C] [libformatstr]: python lib to make string format exploits
 * \[G|C] [fixenv]: Script to align stack withtout ASLR and gdb,strace,ltrace
+* \[O|W] [cheatengine]: memory scanner and other usefull things
 
 ### Forensic
 
@@ -211,3 +212,4 @@ Github wiki is also an option when the list is going to be too long.
 [origami]: https://github.com/cogent/origami-pdf
 [libformatstr]: https://github.com/hellman/libformatstr
 [fixenv]: https://github.com/hellman/fixenv
+[cheatengine]: http://www.cheatengine.org/
