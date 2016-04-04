@@ -127,6 +127,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [ctf-tools]: list of tools similar to this one
 * \[I] https://www.exploit-db.com/: exploits database
 * \[G] [pwntools]: Python framework to quickly develop exploits
+* \[G|C] [AutoLocalPrivilegeEscalation]: bash script to get root if possible
 
 ### Programming
 
@@ -213,3 +214,4 @@ Github wiki is also an option when the list is going to be too long.
 [libformatstr]: https://github.com/hellman/libformatstr
 [fixenv]: https://github.com/hellman/fixenv
 [cheatengine]: http://www.cheatengine.org/
+[AutoLocalPrivilegeEscalation]: https://github.com/ngalongc/AutoLocalPrivilegeEscalation
