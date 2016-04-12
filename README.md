@@ -50,7 +50,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [libformatstr]: python lib to make string format exploits
 * \[G|C] [fixenv]: Script to align stack withtout ASLR and gdb,strace,ltrace
 * \[O|W] [cheatengine]: memory scanner and other usefull things
-* \[S] [Voltron] Great UI Debugger
+* \[S] [Voltron]: Great UI Debugger
 
 ### Forensic
 
@@ -216,4 +216,4 @@ Github wiki is also an option when the list is going to be too long.
 [fixenv]: https://github.com/hellman/fixenv
 [cheatengine]: http://www.cheatengine.org/
 [AutoLocalPrivilegeEscalation]: https://github.com/ngalongc/AutoLocalPrivilegeEscalation
-[Voltron] https://github.com/snare/voltron
+[Voltron]: https://github.com/snare/voltron
