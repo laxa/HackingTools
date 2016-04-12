@@ -50,7 +50,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [libformatstr]: python lib to make string format exploits
 * \[G|C] [fixenv]: Script to align stack withtout ASLR and gdb,strace,ltrace
 * \[O|W] [cheatengine]: memory scanner and other usefull things
-* \[S] [Voltron]: Great UI Debugger
+* \[G] [Voltron]: Great UI Debugger
 
 ### Forensic
 
