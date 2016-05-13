@@ -129,6 +129,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] https://www.exploit-db.com/: exploits database
 * \[G] [pwntools]: Python framework to quickly develop exploits
 * \[G|C] [AutoLocalPrivilegeEscalation]: bash script to get root if possible
+* \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
 
 ### Programming
 
@@ -217,3 +218,4 @@ Github wiki is also an option when the list is going to be too long.
 [cheatengine]: http://www.cheatengine.org/
 [AutoLocalPrivilegeEscalation]: https://github.com/ngalongc/AutoLocalPrivilegeEscalation
 [Voltron]: https://github.com/snare/voltron
+[SecLists]: https://github.com/danielmiessler/SecLists
