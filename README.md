@@ -67,6 +67,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|G] [cribdrag]: interactive crib dragging on xored text
 * \[C|G] [hash_extender]: hash extension forger
 * \[C|G] [hash-identifier]: hash identifier
+* \[C|G] [PadBuster]: break CBC encryption using an oracle
 * \[C|G] [lsb-toolkit]: extract bit from images for steganography
 * \[C|O] [john]: hash cracker (bruteforce + dico attacks)
 * \[F|O] [hashcat]: hash bruteforce cracker that support GPU
@@ -219,3 +220,4 @@ Github wiki is also an option when the list is going to be too long.
 [AutoLocalPrivilegeEscalation]: https://github.com/ngalongc/AutoLocalPrivilegeEscalation
 [Voltron]: https://github.com/snare/voltron
 [SecLists]: https://github.com/danielmiessler/SecLists
+[PadBuster]: https://github.com/GDSSecurity/PadBuster
