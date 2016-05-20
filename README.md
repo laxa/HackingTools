@@ -51,6 +51,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [fixenv]: Script to align stack withtout ASLR and gdb,strace,ltrace
 * \[O|W] [cheatengine]: memory scanner and other usefull things
 * \[G] [Voltron]: Great UI Debugger
+* \[G] [Z3]: Z3 is a theorem prover
+* \[G] [angr]: binary analysis, allows value-set analysis
 
 ### Forensic
 
@@ -221,3 +223,5 @@ Github wiki is also an option when the list is going to be too long.
 [Voltron]: https://github.com/snare/voltron
 [SecLists]: https://github.com/danielmiessler/SecLists
 [PadBuster]: https://github.com/GDSSecurity/PadBuster
+[Z3]: https://github.com/Z3Prover/z3
+[angr]: https://github.com/angr/angr
