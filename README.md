@@ -54,6 +54,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [Z3]: Z3 is a theorem prover
 * \[G] [angr]: binary analysis, allows value-set analysis
 * \[G] [rop-tool]: another helpful tool for ROP
+* \[G] [villoc]: visualize heap chunks on linux
 
 ### Forensic
 
@@ -227,3 +228,4 @@ Github wiki is also an option when the list is going to be too long.
 [Z3]: https://github.com/Z3Prover/z3
 [angr]: https://github.com/angr/angr
 [rop-tool]: https://github.com/t00sh/rop-tool
+[villoc]: https://github.com/wapiflapi/villoc
