@@ -48,6 +48,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [radare2]: analyzer, disassembler, debugger
 * \[G] [Bokken]: Python-GTK GUI for radare2
 * \[G|C] [libformatstr]: python lib to make string format exploits
+* \[G] [pwntools]: Python framework to quickly develop exploits
 * \[G|C] [fixenv]: Script to align stack withtout ASLR and gdb,strace,ltrace
 * \[O|W] [cheatengine]: memory scanner and other usefull things
 * \[G] [Voltron]: Great UI Debugger
@@ -132,7 +133,6 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[M|O] [kali]: hacking linux OS
 * \[G] [ctf-tools]: list of tools similar to this one
 * \[I] https://www.exploit-db.com/: exploits database
-* \[G] [pwntools]: Python framework to quickly develop exploits
 * \[G|C] [AutoLocalPrivilegeEscalation]: bash script to get root if possible
 * \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
 
