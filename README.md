@@ -57,6 +57,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [angr]: binary analysis, allows value-set analysis
 * \[G] [rop-tool]: another helpful tool for ROP
 * \[G] [villoc]: visualize heap chunks on linux
+* \[O|C] [valgrind]: binary analysis allowing to spot read/write errors on memory operations
 
 ### Forensic
 
@@ -237,3 +238,4 @@ Github wiki is also an option when the list is going to be too long.
 [Wireshark]: https://www.wireshark.org/
 [binjitsu]: https://github.com/binjitsu/binjitsu
 [virt-what]: https://people.redhat.com/~rjones/virt-what/
+[valgrind]: http://valgrind.org/
