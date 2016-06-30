@@ -49,6 +49,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [Bokken]: Python-GTK GUI for radare2
 * \[G|C] [libformatstr]: python lib to make string format exploits
 * \[G] [pwntools]: Python framework to quickly develop exploits
+* \[G] [binjitsu]: fork of pwntools
 * \[G|C] [fixenv]: Script to align stack withtout ASLR and gdb,strace,ltrace
 * \[O|W] [cheatengine]: memory scanner and other usefull things
 * \[G] [Voltron]: Great UI Debugger
@@ -112,6 +113,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [nmap]: network tool to scan ports and discover services
 * \[C|O] [Scapy]: powerful interactive packet manipulation program
 * \[C|O] [Aircrack]: wi-fi injection/monitoring/cracking
+* \[S|O] [Wireshark]: network packet analyzer
 
 ### Steganography
 
@@ -135,6 +137,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] https://www.exploit-db.com/: exploits database
 * \[G|C] [AutoLocalPrivilegeEscalation]: bash script to get root if possible
 * \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
+* \[C|O] [sshpass]: pass ssh password without typing it (highly insecure)
+* \[C|O] [virt-what]: simple bash script to detect virtualization environment
 
 ### Programming
 
@@ -229,3 +233,7 @@ Github wiki is also an option when the list is going to be too long.
 [angr]: https://github.com/angr/angr
 [rop-tool]: https://github.com/t00sh/rop-tool
 [villoc]: https://github.com/wapiflapi/villoc
+[sshpass]: https://sourceforge.net/projects/sshpass/files/sshpass/
+[Wireshark]: https://www.wireshark.org/
+[binjitsu]: https://github.com/binjitsu/binjitsu
+[virt-what]: https://people.redhat.com/~rjones/virt-what/
