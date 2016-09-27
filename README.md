@@ -58,6 +58,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [rop-tool]: another helpful tool for ROP
 * \[G] [villoc]: visualize heap chunks on linux
 * \[O|C] [valgrind]: binary analysis allowing to spot read/write errors on memory operations
+* \[S|W] [apimonitor]: inspect process calls and trace them
 
 ### Forensic
 
@@ -140,6 +141,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
 * \[C|O] [sshpass]: pass ssh password without typing it (highly insecure)
 * \[C|O] [virt-what]: simple bash script to detect virtualization environment
+* \[W|O] [ProcessHacker]: Extended taskmanager
 
 ### Programming
 
@@ -239,3 +241,6 @@ Github wiki is also an option when the list is going to be too long.
 [binjitsu]: https://github.com/binjitsu/binjitsu
 [virt-what]: https://people.redhat.com/~rjones/virt-what/
 [valgrind]: http://valgrind.org/
+[ProcessHacker]: http://processhacker.sourceforge.net/
+[apimonitor]: http://www.rohitab.com/apimonitor
+
