@@ -139,6 +139,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] https://www.exploit-db.com/: exploits database
 * \[G|C] [AutoLocalPrivilegeEscalation]: bash script to get root if possible
 * \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
+* \[W] [pax0r]: another huge list of tools
 * \[C|O] [sshpass]: pass ssh password without typing it (highly insecure)
 * \[C|O] [virt-what]: simple bash script to detect virtualization environment
 * \[W|O] [ProcessHacker]: Extended taskmanager
@@ -243,4 +244,4 @@ Github wiki is also an option when the list is going to be too long.
 [valgrind]: http://valgrind.org/
 [ProcessHacker]: http://processhacker.sourceforge.net/
 [apimonitor]: http://www.rohitab.com/apimonitor
-
+[pax0r]: http://pax0r.com/staff/tools2016/
