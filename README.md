@@ -59,6 +59,9 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [villoc]: visualize heap chunks on linux
 * \[O|C] [valgrind]: binary analysis allowing to spot read/write errors on memory operations
 * \[S|W] [apimonitor]: inspect process calls and trace them
+* \[F|W] [PEiD]: identify which packer has been used on PE binaries
+* \[F|W] [ImpREC]: reconstruct IAT table for unpacked binaries
+* \[O|C] [Flawfinder]: static source code analyzer for C/C++ which report possible security weakness
 
 ### Forensic
 
@@ -120,6 +123,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 ### Steganography
 
 * \[C|F] [exiftags]: linux package to check jpg tags
+* \[O|C] [ExifTool]: read/edit metadata of various file formats
 * \[F|O|W] [tweakpng]: tool to resize image for steganography
 * \[F|O] [Stegsolve]: perform quick image analysis to find hidden things
 * \[F|O] [Wbstego]: retrieve/hide messages in various container
@@ -135,14 +139,18 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] https://regex101.com/: javascript/python/php regex online
 * \[I] http://rubular.com/: ruby regex online
 * \[M|O] [kali]: hacking linux OS
-* \[G] [ctf-tools]: list of tools similar to this one
 * \[I] https://www.exploit-db.com/: exploits database
 * \[G|C] [AutoLocalPrivilegeEscalation]: bash script to get root if possible
-* \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
-* \[W] [pax0r]: another huge list of tools
 * \[C|O] [sshpass]: pass ssh password without typing it (highly insecure)
 * \[C|O] [virt-what]: simple bash script to detect virtualization environment
 * \[W|O] [ProcessHacker]: Extended taskmanager
+
+### Sec/Tools list
+
+* \[W] [pax0r]: another huge list of tools
+* \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
+* \[G] [ctf-tools]: list of tools similar to this one
+* \[W] http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/
 
 ### Programming
 
@@ -245,3 +253,7 @@ Github wiki is also an option when the list is going to be too long.
 [ProcessHacker]: http://processhacker.sourceforge.net/
 [apimonitor]: http://www.rohitab.com/apimonitor
 [pax0r]: http://pax0r.com/staff/tools2016/
+[PEiD]: https://www.aldeid.com/wiki/PEiD
+[ImpREC]: http://www.woodmann.com/collaborative/tools/index.php/ImpREC
+[Flawfinder]: http://www.dwheeler.com/flawfinder/
+[ExifTool]: http://www.sno.phy.queensu.ca/~phil/exiftool/
