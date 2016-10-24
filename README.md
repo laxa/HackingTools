@@ -71,6 +71,9 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [BinWalk]: find files into file
 * \[S] [dff]: complete forensic gui analyser with lots of automation
 * \[G|C] [origami]: pdf forensic analysis with optional GUI
+* \[F|W] [MFTDump]: dump/copy $MFT file on windows
+* \[G|C] [AppCompatCacheParser]: dump shimcache entries from Registry (can use offline registry)
+* \[F|W] [[RegistryExplorer]: GUI to explore registry with search options and possibility to use offline register
 
 ### Cryptography
 
@@ -119,6 +122,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [Scapy]: powerful interactive packet manipulation program
 * \[C|O] [Aircrack]: wi-fi injection/monitoring/cracking
 * \[S|O] [Wireshark]: network packet analyzer
+* \[S|W] [NetworkMiner]: sniffer/pcap analyzer, pretty good for files and see what's going on with HTTP traffic
 
 ### Steganography
 
@@ -144,17 +148,19 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [sshpass]: pass ssh password without typing it (highly insecure)
 * \[C|O] [virt-what]: simple bash script to detect virtualization environment
 * \[W|O] [ProcessHacker]: Extended taskmanager
+* \[G]: [english-words]: simple english wordlist
 
 ### Sec/Tools list
 
 * \[W] [pax0r]: another huge list of tools
 * \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
 * \[G] [ctf-tools]: list of tools similar to this one
-* \[W] http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/
+* \[I] http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/
 
 ### Programming
 
 * \[I] http://www.tutorialspoint.com/: online programmation on most languages
+* \[I] https://gcc.godbolt.org/: check disassembly code produced with different versions of gcc
 
 
 ---
@@ -257,3 +263,8 @@ Github wiki is also an option when the list is going to be too long.
 [ImpREC]: http://www.woodmann.com/collaborative/tools/index.php/ImpREC
 [Flawfinder]: http://www.dwheeler.com/flawfinder/
 [ExifTool]: http://www.sno.phy.queensu.ca/~phil/exiftool/
+[NetworkMiner]: http://www.netresec.com/?page=NetworkMiner
+[english-words]: https://github.com/dwyl/english-words
+[MFTDump]: http://malware-hunters.net/all-downloads/
+[AppCompatCacheParser]: https://github.com/EricZimmerman/AppCompatCacheParser
+[RegistryExplorer]: https://binaryforay.blogspot.fr/2015/07/registry-explorerrecmd-0710-released.html
