@@ -62,6 +62,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F|W] [PEiD]: identify which packer has been used on PE binaries
 * \[F|W] [ImpREC]: reconstruct IAT table for unpacked binaries
 * \[O|C] [Flawfinder]: static source code analyzer for C/C++ which report possible security weakness
+* \[G|C] [afl]: fuzzer
 
 ### Forensic
 
@@ -270,3 +271,4 @@ Github wiki is also an option when the list is going to be too long.
 [AppCompatCacheParser]: https://github.com/EricZimmerman/AppCompatCacheParser
 [RegistryExplorer]: https://binaryforay.blogspot.fr/2015/07/registry-explorerrecmd-0710-released.html
 [python-paddingoracle]: https://github.com/mwielgoszewski/python-paddingoracle
+[afl]: https://github.com/mirrorer/afl
