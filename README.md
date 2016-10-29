@@ -125,6 +125,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [Aircrack]: wi-fi injection/monitoring/cracking
 * \[S|O] [Wireshark]: network packet analyzer
 * \[S|W] [NetworkMiner]: sniffer/pcap analyzer, pretty good for files and see what's going on with HTTP traffic
+* \[C|O] [Hexinject] Packer injector and sniffer. Allows to modify packets on the fly
 
 ### Steganography
 
@@ -272,3 +273,4 @@ Github wiki is also an option when the list is going to be too long.
 [RegistryExplorer]: https://binaryforay.blogspot.fr/2015/07/registry-explorerrecmd-0710-released.html
 [python-paddingoracle]: https://github.com/mwielgoszewski/python-paddingoracle
 [afl]: https://github.com/mirrorer/afl
+[Hexinject]: https://sourceforge.net/projects/hexinject/files/
