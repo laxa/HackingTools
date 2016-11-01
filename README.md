@@ -42,7 +42,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F] [DiE]: binary packer detection
 * \[G] [Qira]: timeless debugger with web interface by geohot
 * \[G|C] [ROPGadget]: tool for rop chaining
-* \[G|C] [reverse]: disassemble in pseudo-C with colored syntax
+* \[G|C] [plasma]: interactive disassembler in pseudo-C with colored syntax
 * \[O|C|L] [XOCopy]: copy memory of execute only ELF binaries
 * \[G|C] [Shellsploit]: shellcode generator framework
 * \[G|C] [radare2]: analyzer, disassembler, debugger
@@ -234,7 +234,7 @@ Github wiki is also an option when the list is going to be too long.
 [Qira]: https://github.com/BinaryAnalysisPlatform/qira
 [Hydra]: https://github.com/vanhauser-thc/thc-hydra
 [ROPGadget]: https://github.com/JonathanSalwan/ROPgadget
-[reverse]: https://github.com/joelpx/reverse
+[plasma]: https://github.com/joelpx/plasma
 [XOCopy]: http://reverse.lostrealm.com/tools/xocopy.html
 [Shellsploit]: https://github.com/b3mb4m/shellsploit-framework
 [radare2]: https://github.com/radare/radare2
