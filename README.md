@@ -159,6 +159,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
 * \[G] [ctf-tools]: list of tools similar to this one
 * \[I] http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/
+* \[G] https://github.com/Hack-with-Github/Awesome-Hacking: awesome list related to hacking
 
 ### Programming
 
