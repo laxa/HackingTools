@@ -32,7 +32,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F|O] [OllyDbg]: debugger
 * \[F|O|W] [x64dbg]: debugger
 * \[C|O|L] [gdb]: Gnu debugger for linux
-* \[M] [peda]: python plugin for gdb
+* \[M|G] [peda]: python plugin for gdb
+* \[M|G] [gef]: gdb plugin supporting more architectures than peda
 * \[C|O|L] [strace/ltrace]: system call tracers / dynamic call tracers (librairies)
 * \[G] [dex2jar]: apk unpacker (android package)
 * \[S] [dede]: delphi decompiler
@@ -275,3 +276,4 @@ Github wiki is also an option when the list is going to be too long.
 [python-paddingoracle]: https://github.com/mwielgoszewski/python-paddingoracle
 [afl]: https://github.com/mirrorer/afl
 [Hexinject]: https://sourceforge.net/projects/hexinject/files/
+[gdb]: https://github.com/hugsy/gef
