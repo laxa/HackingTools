@@ -276,4 +276,4 @@ Github wiki is also an option when the list is going to be too long.
 [python-paddingoracle]: https://github.com/mwielgoszewski/python-paddingoracle
 [afl]: https://github.com/mirrorer/afl
 [Hexinject]: https://sourceforge.net/projects/hexinject/files/
-[gdb]: https://github.com/hugsy/gef
+[gef]: https://github.com/hugsy/gef
