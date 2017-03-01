@@ -64,6 +64,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F|W] [ImpREC]: reconstruct IAT table for unpacked binaries
 * \[O|C] [Flawfinder]: static source code analyzer for C/C++ which report possible security weakness
 * \[G|C] [afl]: fuzzer
+* \[G] [gdbgui]: web lightweight gui interface for gdb
 
 ### Forensic
 
@@ -117,6 +118,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] https://dnsdumpster.com/: free domain research tools, find subdomains
 * \[I] https://pentest-tools.com/home: subdomain bruteforce not 100% free
 * \[G] [Hydra]: remote password cracker
+* \[G|C] [wuzz]: webclient curl like using ncurses
 
 ### Network
 
@@ -277,3 +279,5 @@ Github wiki is also an option when the list is going to be too long.
 [afl]: https://github.com/mirrorer/afl
 [Hexinject]: https://sourceforge.net/projects/hexinject/files/
 [gef]: https://github.com/hugsy/gef
+[gdbgui]: https://github.com/cs01/gdbgui/
+[wuzz]: https://github.com/asciimoo/wuzz
