@@ -65,6 +65,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[O|C] [Flawfinder]: static source code analyzer for C/C++ which report possible security weakness
 * \[G|C] [afl]: fuzzer
 * \[G] [gdbgui]: web lightweight gui interface for gdb
+* \[G|C] [one_gadget]: script to find and identify constraints on magc gadget
+* \[G|C] [Ropper]: gadgets finder, better than ROPgadget for ARM
 
 ### Forensic
 
@@ -281,3 +283,5 @@ Github wiki is also an option when the list is going to be too long.
 [gef]: https://github.com/hugsy/gef
 [gdbgui]: https://github.com/cs01/gdbgui/
 [wuzz]: https://github.com/asciimoo/wuzz
+[one_gadget]: https://github.com/david942j/one_gadget
+[Ropper]: https://github.com/sashs/Ropper
