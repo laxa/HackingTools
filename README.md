@@ -158,6 +158,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[C|O] [virt-what]: simple bash script to detect virtualization environment
 * \[W|O] [ProcessHacker]: Extended taskmanager
 * \[G]: [english-words]: simple english wordlist
+* \[G]: [fuzzdb]: tons of lists for fuzzing
 
 ### Sec/Tools list
 
@@ -286,3 +287,4 @@ Github wiki is also an option when the list is going to be too long.
 [wuzz]: https://github.com/asciimoo/wuzz
 [one_gadget]: https://github.com/david942j/one_gadget
 [Ropper]: https://github.com/sashs/Ropper
+[fuzzdb]: https://github.com/fuzzdb-project/fuzzdb
