@@ -80,7 +80,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [origami]: pdf forensic analysis with optional GUI
 * \[F|W] [MFTDump]: dump/copy $MFT file on windows
 * \[G|C] [AppCompatCacheParser]: dump shimcache entries from Registry (can use offline registry)
-* \[F|W] [[RegistryExplorer]: GUI to explore registry with search options and possibility to use offline register
+* \[F|W] [RegistryExplorer]: GUI to explore registry with search options and possibility to use offline register
 
 ### Cryptography
 
