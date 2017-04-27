@@ -57,6 +57,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [Voltron]: Great UI Debugger
 * \[G] [Z3]: Z3 is a theorem prover
 * \[G] [angr]: binary analysis, allows value-set analysis
+* \[G] [manticore]: dynamic analysis, symbolic execution framework
 * \[G] [rop-tool]: another helpful tool for ROP
 * \[G] [villoc]: visualize heap chunks on linux
 * \[O|C] [valgrind]: binary analysis allowing to spot read/write errors on memory operations
@@ -288,3 +289,4 @@ Github wiki is also an option when the list is going to be too long.
 [one_gadget]: https://github.com/david942j/one_gadget
 [Ropper]: https://github.com/sashs/Ropper
 [fuzzdb]: https://github.com/fuzzdb-project/fuzzdb
+[manticore]: https://github.com/trailofbits/manticore
