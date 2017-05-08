@@ -26,10 +26,11 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] https://retdec.com/: online decompiler for c/c++ binaries
 * \[I] http://www.showmycode.com/: online decompiler for .NET/flash and others...
 * \[I] http://www.javadecompilers.com/: java decompiler online
+* \[W] https://defuse.ca/online-x86-assembler.htm: online frontend for disassembling/assembling x86/x86_64
 * \[S|W] [Reflector]: assembly browser for .NET
 * \[F|O|W] [Simple Assembly Explorer]: another .NET disassembler
 * \[F|O|W] [de4dot]: .NET deobfuscator
-* \[S] [IDA]: debugger
+* \[S] [IDA]: debugger / disassembler, most complete tool for static/dynamic binary analysis
 * \[F|O] [OllyDbg]: debugger
 * \[F|O|W] [x64dbg]: debugger
 * \[C|O|L] [gdb]: Gnu debugger for linux
