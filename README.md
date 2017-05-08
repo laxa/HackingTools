@@ -22,11 +22,12 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 ### Binary
 
-* \[I] https://malwr.com/: online binary analysis
+* \[I] https://malwr.com/: online binary analysis (behaviour analysis in sandbox)
+* \[I] https://www.virustotal.com/: online binary analysis by AV
 * \[I] https://retdec.com/: online decompiler for c/c++ binaries
 * \[I] http://www.showmycode.com/: online decompiler for .NET/flash and others...
 * \[I] http://www.javadecompilers.com/: java decompiler online
-* \[W] https://defuse.ca/online-x86-assembler.htm: online frontend for disassembling/assembling x86/x86_64
+* \[I] https://defuse.ca/online-x86-assembler.htm: online frontend for disassembling/assembling x86/x86_64
 * \[S|W] [Reflector]: assembly browser for .NET
 * \[F|O|W] [Simple Assembly Explorer]: another .NET disassembler
 * \[F|O|W] [de4dot]: .NET deobfuscator
