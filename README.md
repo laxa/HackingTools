@@ -14,6 +14,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I]: Website
 * \[P]: Plugin for chrome
 * \[R]: Plugin for firefox
+* \[D]: Plugin for IDA Pro
 * \[C]: CLI tool
 * \[O]: Open source
 * \[M]: Misceallenous
@@ -32,8 +33,17 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F|O|W] [Simple Assembly Explorer]: another .NET disassembler
 * \[F|O|W] [de4dot]: .NET deobfuscator
 * \[S] [IDA]: debugger / disassembler, most complete tool for static/dynamic binary analysis
+* \[D] [FindCrypt2]: Detect static code for known algorithms
+* \[D|G] [ScyllaHide]: Anti-Anti debug
+* \[D|G] [DIE]: Dynamic IDA Enrichment
 * \[F|O] [OllyDbg]: debugger
 * \[F|O|W] [x64dbg]: debugger
+* \[F|W] [DiE]: binary packer detection
+* \[S|W] [apimonitor]: inspect process calls and trace them
+* \[F|W] [PEiD]: identify which packer has been used on PE binaries
+* \[O|W] [XNResourceEditor]: Browse resources in PE
+* \[F|W] [ImpREC]: reconstruct IAT table for unpacked binaries
+* \[O|W] [cheatengine]: memory scanner and other usefull things
 * \[C|O|L] [gdb]: Gnu debugger for linux
 * \[M|G] [peda]: python plugin for gdb
 * \[M|G] [gef]: gdb plugin supporting more architectures than peda
@@ -43,7 +53,6 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[S] [Pin]: dynamic binary instrumentation framework
 * \[G] [Pintool]: binary password finder for ctf using pin
 * \[O|L] [checksec]: check binary protections
-* \[F] [DiE]: binary packer detection
 * \[G] [Qira]: timeless debugger with web interface by geohot
 * \[G|C] [ROPGadget]: tool for rop chaining
 * \[G|C] [plasma]: interactive disassembler in pseudo-C with colored syntax
@@ -55,7 +64,6 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [pwntools]: Python framework to quickly develop exploits
 * \[G] [binjitsu]: fork of pwntools
 * \[G|C] [fixenv]: Script to align stack withtout ASLR and gdb,strace,ltrace
-* \[O|W] [cheatengine]: memory scanner and other usefull things
 * \[G] [Voltron]: Great UI Debugger
 * \[G] [Z3]: Z3 is a theorem prover
 * \[G] [angr]: binary analysis, allows value-set analysis
@@ -63,11 +71,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [rop-tool]: another helpful tool for ROP
 * \[G] [villoc]: visualize heap chunks on linux
 * \[O|C] [valgrind]: binary analysis allowing to spot read/write errors on memory operations
-* \[S|W] [apimonitor]: inspect process calls and trace them
-* \[F|W] [PEiD]: identify which packer has been used on PE binaries
-* \[F|W] [ImpREC]: reconstruct IAT table for unpacked binaries
 * \[O|C] [Flawfinder]: static source code analyzer for C/C++ which report possible security weakness
-* \[G|C] [afl]: fuzzer
+* \[G|C] [afl]: American Fuzy Lop is a fuzzer using dumb/instrumented/qemu
 * \[G] [gdbgui]: web lightweight gui interface for gdb
 * \[G|C] [one_gadget]: script to find and identify constraints on magc gadget
 * \[G|C] [Ropper]: gadgets finder, better than ROPgadget for ARM
@@ -292,3 +297,7 @@ Github wiki is also an option when the list is going to be too long.
 [Ropper]: https://github.com/sashs/Ropper
 [fuzzdb]: https://github.com/fuzzdb-project/fuzzdb
 [manticore]: https://github.com/trailofbits/manticore
+[XNResourceEditor]: https://stefansundin.github.io/xn_resource_editor/
+[FindCrypt2]: http://www.hexblog.com/?p=28
+[ScyllaHide]: https://github.com/x64dbg/ScyllaHide/
+[DIE]: https://github.com/ynvb/DIE
