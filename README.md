@@ -38,7 +38,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[D|G] [DIE]: Dynamic IDA Enrichment
 * \[F|O] [OllyDbg]: debugger
 * \[F|O|W] [x64dbg]: debugger
-* \[F|W] [DiE]: binary packer detection
+* \[F|W] [Detect it easy]: binary packer detection
 * \[S|W] [apimonitor]: inspect process calls and trace them
 * \[F|W] [PEiD]: identify which packer has been used on PE binaries
 * \[O|W] [XNResourceEditor]: Browse resources in PE
@@ -246,7 +246,7 @@ Github wiki is also an option when the list is going to be too long.
 [QEMU]: http://wiki.qemu.org/Main_Page
 [rsatool]: https://github.com/ius/rsatool
 [checksec]: http://www.trapkit.de/tools/checksec.html
-[DiE]: http://ntinfo.biz/
+[Detect it easy]: http://ntinfo.biz/
 [Qira]: https://github.com/BinaryAnalysisPlatform/qira
 [Hydra]: https://github.com/vanhauser-thc/thc-hydra
 [ROPGadget]: https://github.com/JonathanSalwan/ROPgadget
