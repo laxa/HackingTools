@@ -25,6 +25,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 * \[I] https://malwr.com/: online binary analysis (behaviour analysis in sandbox)
 * \[I] https://www.virustotal.com/: online binary analysis by AV
+* \[I] https://www.hybrid-analysis.com: online binary analysis (behaviour analysis in sandbox)
 * \[I] https://retdec.com/: online decompiler for c/c++ binaries
 * \[I] http://www.showmycode.com/: online decompiler for .NET/flash and others...
 * \[I] http://www.javadecompilers.com/: java decompiler online
