@@ -302,3 +302,4 @@ Github wiki is also an option when the list is going to be too long.
 [FindCrypt2]: http://www.hexblog.com/?p=28
 [ScyllaHide]: https://github.com/x64dbg/ScyllaHide/
 [DIE]: https://github.com/ynvb/DIE
+[processmonitor]: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
