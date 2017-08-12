@@ -41,6 +41,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F|O|W] [x64dbg]: debugger
 * \[F|W] [Detect it easy]: binary packer detection
 * \[S|W] [apimonitor]: inspect process calls and trace them
+* \[S|W] [processmonitor]: Microsoft tool to quickly see system calls
 * \[F|W] [PEiD]: identify which packer has been used on PE binaries
 * \[O|W] [XNResourceEditor]: Browse resources in PE
 * \[F|W] [ImpREC]: reconstruct IAT table for unpacked binaries
