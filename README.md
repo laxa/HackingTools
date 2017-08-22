@@ -169,6 +169,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[W|O] [ProcessHacker]: Extended taskmanager
 * \[G]: [english-words]: simple english wordlist
 * \[G]: [fuzzdb]: tons of lists for fuzzing
+* \[O|C]: [recon-ng]: reconnaissance tool metasploit alike for mails/leaks/contacts/hosts/domains...
 
 ### Sec/Tools list
 
@@ -304,3 +305,5 @@ Github wiki is also an option when the list is going to be too long.
 [ScyllaHide]: https://github.com/x64dbg/ScyllaHide/
 [DIE]: https://github.com/ynvb/DIE
 [processmonitor]: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+[recon-ng]: https://bitbucket.org/LaNMaSteR53/recon-ng
+
