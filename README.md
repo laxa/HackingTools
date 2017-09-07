@@ -1,16 +1,16 @@
 # This is a simple list of all tools that can be related to hacking, there are windows and linux tools
 
 This repo was created by [Geluchat](https://github.com/Geluchat) and [laxa](https://github.com/Laxa)
-The overall idea is to find quickly a tool that could suits your need or help you in any way related to computer hacking.
-This list is suppose to be as exhaustive as possible.
+The overall idea is to find quickly a tool that could suit your need or help you in any way related to computer hacking.
+This list is supposed to be as exhaustive as possible.
 
 All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short description
 
 ### Legend
 
-* \[G]: Github/Git repository # Note, this flag automatically imply the \[O] flag
+* \[G]: Github/Git repository # Note, this flag automatically implies the \[O] flag
 * \[S]: Software (Imply that it's not always 100% free and that it's not open source or restrictive license)
-* \[F]: Freeware (Free software, does'nt necessarily means that it's opensource)
+* \[F]: Freeware (Free software, doesn't necessarily means that it's opensource)
 * \[I]: Website
 * \[P]: Plugin for chrome
 * \[R]: Plugin for firefox
