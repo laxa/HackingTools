@@ -33,6 +33,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[S|W] [Reflector]: assembly browser for .NET
 * \[F|O|W] [Simple Assembly Explorer]: another .NET disassembler
 * \[F|O|W] [de4dot]: .NET deobfuscator
+* \[G|W] [dnSpy]: .NET decompiler, debugger, assembly editor and more
 * \[S] [IDA]: debugger / disassembler, most complete tool for static/dynamic binary analysis
 * \[D] [FindCrypt2]: Detect static code for known algorithms
 * \[D|G] [ScyllaHide]: Anti-Anti debug
@@ -132,6 +133,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[I] https://pentest-tools.com/home: subdomain bruteforce not 100% free
 * \[G] [Hydra]: remote password cracker
 * \[G|C] [wuzz]: webclient curl like using ncurses
+* \[G|C] [patator]: web bruteforce/enumator
+* \[G|C] [wfuzz]: web bruteforce/enumator
 
 ### Network
 
@@ -306,4 +309,7 @@ Github wiki is also an option when the list is going to be too long.
 [DIE]: https://github.com/ynvb/DIE
 [processmonitor]: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
 [recon-ng]: https://bitbucket.org/LaNMaSteR53/recon-ng
+[dnSpy]: https://github.com/0xd4d/dnSpy
+[wfuzz]: https://github.com/xmendez/wfuzz
+[patator]: https://github.com/lanjelot/patator
 
