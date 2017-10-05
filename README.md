@@ -136,6 +136,10 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [patator]: web bruteforce/enumator
 * \[G|C] [wfuzz]: web bruteforce/enumator
 
+### Windows
+
+* \[G|C] [impacket]: tons of CLI scripts to interact with windows protocols
+
 ### Network
 
 * \[C|O] [Netcat]: network tool, can listen or connect using TCP/UDP
@@ -312,4 +316,4 @@ Github wiki is also an option when the list is going to be too long.
 [dnSpy]: https://github.com/0xd4d/dnSpy
 [wfuzz]: https://github.com/xmendez/wfuzz
 [patator]: https://github.com/lanjelot/patator
-
+[impacket]: https://github.com/CoreSecurity/impacket
