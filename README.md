@@ -178,6 +178,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G]: [fuzzdb]: tons of lists for fuzzing
 * \[O|C]: [recon-ng]: reconnaissance tool metasploit alike for mails/leaks/contacts/hosts/domains...
 * \[G] https://gist.github.com/adamloving/4401361: List of trash/temporary mails list
+* \[W] http://www.viewdns.info/: retrieve DNS information, reverse whois, etc...
 
 ### Sec/Tools list
 
