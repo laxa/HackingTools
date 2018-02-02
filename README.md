@@ -91,6 +91,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[F|W] [MFTDump]: dump/copy $MFT file on windows
 * \[G|C] [AppCompatCacheParser]: dump shimcache entries from Registry (can use offline registry)
 * \[F|W] [RegistryExplorer]: GUI to explore registry with search options and possibility to use offline register
+* \[S|W] [Agent Ransack]: GUI to search for files/content on shares/local drives
 
 ### Cryptography
 
@@ -319,3 +320,4 @@ Github wiki is also an option when the list is going to be too long.
 [wfuzz]: https://github.com/xmendez/wfuzz
 [patator]: https://github.com/lanjelot/patator
 [impacket]: https://github.com/CoreSecurity/impacket
+[Agent Ransack]: https://www.mythicsoft.com/agentransack/
