@@ -140,7 +140,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 ### Windows
 
 * \[G|C] [impacket]: tons of CLI scripts to interact with windows protocols
-* \[G] [UACME]: Exploits for UAC bypass
+* \[G|W] [UACME]: Exploits for UAC bypass
 
 ### Network
 
