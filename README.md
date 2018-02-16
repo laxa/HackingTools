@@ -140,6 +140,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 ### Windows
 
 * \[G|C] [impacket]: tons of CLI scripts to interact with windows protocols
+* \[G] [UACME]: Exploits for UAC bypass
 
 ### Network
 
@@ -321,3 +322,4 @@ Github wiki is also an option when the list is going to be too long.
 [patator]: https://github.com/lanjelot/patator
 [impacket]: https://github.com/CoreSecurity/impacket
 [Agent Ransack]: https://www.mythicsoft.com/agentransack/
+[UACME]: https://github.com/hfiref0x/UACME/
