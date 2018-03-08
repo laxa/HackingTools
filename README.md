@@ -79,6 +79,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G] [gdbgui]: web lightweight gui interface for gdb
 * \[G|C] [one_gadget]: script to find and identify constraints on magc gadget
 * \[G|C] [Ropper]: gadgets finder, better than ROPgadget for ARM
+* \[G|C] [frida]: Dynamic instrumentation toolkit for most common platforms
 
 ### Forensic
 
