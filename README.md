@@ -51,7 +51,6 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[M|G] [peda]: python plugin for gdb
 * \[M|G] [gef]: gdb plugin supporting more architectures than peda
 * \[C|O|L] [strace/ltrace]: system call tracers / dynamic call tracers (librairies)
-* \[G] [dex2jar]: apk unpacker (android package)
 * \[S] [dede]: delphi decompiler
 * \[S] [Pin]: dynamic binary instrumentation framework
 * \[G] [Pintool]: binary password finder for ctf using pin
@@ -80,6 +79,11 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [one_gadget]: script to find and identify constraints on magc gadget
 * \[G|C] [Ropper]: gadgets finder, better than ROPgadget for ARM
 * \[G|C] [frida]: Dynamic instrumentation toolkit for most common platforms
+
+### Android/IOS
+
+* \[G] [dex2jar]: apk unpacker (android package)
+* \[G|C] [objection]: mobile exploration toolkit, wrapper of frida
 
 ### Forensic
 
@@ -324,3 +328,5 @@ Github wiki is also an option when the list is going to be too long.
 [impacket]: https://github.com/CoreSecurity/impacket
 [Agent Ransack]: https://www.mythicsoft.com/agentransack/
 [UACME]: https://github.com/hfiref0x/UACME/
+[frida]: https://github.com/frida/frida
+[objection]: https://github.com/sensepost/objection
