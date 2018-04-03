@@ -332,3 +332,4 @@ Github wiki is also an option when the list is going to be too long.
 [UACME]: https://github.com/hfiref0x/UACME/
 [frida]: https://github.com/frida/frida
 [objection]: https://github.com/sensepost/objection
+[teh_s3_bucketeers]: https://github.com/tomdev/teh_s3_bucketeers
