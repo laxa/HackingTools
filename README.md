@@ -142,6 +142,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [patator]: web bruteforce/enumator
 * \[G|C] [wfuzz]: web bruteforce/enumator
 * \[G|C] [teh_s3_bucketeers]: bruteforce s3 buckets
+* \[W] https://html5sec.org/: tons of XSS bypass in browsers
 
 ### Windows
 
