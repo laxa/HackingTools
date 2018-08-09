@@ -84,6 +84,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 * \[G] [dex2jar]: apk unpacker (android package)
 * \[G|C] [objection]: mobile exploration toolkit, wrapper of frida
+* \[G|C] [apktool]: unpack apk, repack them and various other operations
+* \[G|C] [uber-apk-signer]: signing apk
 
 ### Forensic
 
@@ -334,3 +336,5 @@ Github wiki is also an option when the list is going to be too long.
 [frida]: https://github.com/frida/frida
 [objection]: https://github.com/sensepost/objection
 [teh_s3_bucketeers]: https://github.com/tomdev/teh_s3_bucketeers
+[apktool]: https://github.com/iBotPeaches/Apktool
+[uber-apk-signer]: https://github.com/patrickfav/uber-apk-signer
