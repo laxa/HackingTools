@@ -145,6 +145,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [wfuzz]: web bruteforce/enumator
 * \[G|C] [teh_s3_bucketeers]: bruteforce s3 buckets
 * \[W] https://html5sec.org/: tons of XSS bypass in browsers
+* \[G|C] [brakeman]: Ruby on Rails static code analysis security related
+* \[G|C] [gixy]: nginx configuration auditor
 
 ### Windows
 
@@ -338,3 +340,5 @@ Github wiki is also an option when the list is going to be too long.
 [teh_s3_bucketeers]: https://github.com/tomdev/teh_s3_bucketeers
 [apktool]: https://github.com/iBotPeaches/Apktool
 [uber-apk-signer]: https://github.com/patrickfav/uber-apk-signer
+[brakeman]: https://github.com/presidentbeef/brakeman
+[gixy]:https://github.com/yandex/gixy
