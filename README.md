@@ -151,6 +151,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 ### Windows
 
 * \[G|C] [impacket]: tons of CLI scripts to interact with windows protocols
+* \[G|C] [mimikatz]: Retrieve hash/password, play with DPAPI
+* \[G|C] [pypykatz]: python implementation of mimikatz
 * \[G|W] [UACME]: Exploits for UAC bypass
 
 ### Network
@@ -341,4 +343,6 @@ Github wiki is also an option when the list is going to be too long.
 [apktool]: https://github.com/iBotPeaches/Apktool
 [uber-apk-signer]: https://github.com/patrickfav/uber-apk-signer
 [brakeman]: https://github.com/presidentbeef/brakeman
-[gixy]:https://github.com/yandex/gixy
+[gixy]: https://github.com/yandex/gixy
+[mimikatz]: https://github.com/gentilkiwi/mimikatz
+[pypykatz]: https://github.com/skelsec/pypykatz
