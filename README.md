@@ -154,6 +154,7 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[G|C] [mimikatz]: Retrieve hash/password, play with DPAPI
 * \[G|C] [pypykatz]: python implementation of mimikatz
 * \[G|W] [UACME]: Exploits for UAC bypass
+* \[G|C] [responder]: Protocol poisoner and rogue server for Microsoft based networks
 
 ### Network
 
@@ -346,3 +347,4 @@ Github wiki is also an option when the list is going to be too long.
 [gixy]: https://github.com/yandex/gixy
 [mimikatz]: https://github.com/gentilkiwi/mimikatz
 [pypykatz]: https://github.com/skelsec/pypykatz
+[responder]: https://github.com/SpiderLabs/Responder
