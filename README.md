@@ -116,6 +116,8 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 
 ### Web
 
+* \[I] https://spyse.com/: cybersecurity search engine that that provides all needed info about the target in one place. 
+* \[I] https://intelx.io/: investiogation search engine that collects data from various sources as OSINT, darknet, etc... 
 * \[F|O] [DirBuster]: bruteforce/dictionnary attack on webserver to find hidden directories
 * \[I] http://pkav.net/XSS2.png: XSS spreadsheet
 * \[C|O] [sqlmap]: sql injection
